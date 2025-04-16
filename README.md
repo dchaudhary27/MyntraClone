@@ -26,7 +26,7 @@ A sleek and functional e-commerce demo inspired by **Myntra**, built using **Rea
 git clone https://github.com/your-username/myntra-clone.git
 cd myntra-clone
 
-### 2. Install Frontend Dependencies
+2. Install Frontend Dependencies
 cd frontend
 npm install
 npm start
