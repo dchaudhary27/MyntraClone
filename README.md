@@ -25,14 +25,15 @@ A sleek and functional e-commerce demo inspired by **Myntra**, built using **Rea
 ```bash
 git clone https://github.com/your-username/myntra-clone.git
 cd myntra-clone
-
+```
 ### 2. Install Frontend Dependencies
 ```bash
 cd frontend
 npm install
 npm start
-
+```
 3. Start Backend Server
+```bash
 cd backend
 node server.js
 
