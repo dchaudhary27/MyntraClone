@@ -40,7 +40,7 @@ node server.js
 Make sure your backend is running at http://localhost:8080 before starting the frontend.
 
 ```
-###Screenshots
+### Screenshots
 <p1>
 ![image](https://github.com/user-attachments/assets/fd28caa1-de59-4e98-b2b6-2ec41e72a4c7)
    ![image](https://github.com/user-attachments/assets/6b65df93-123c-4125-8db0-c8a97c9b1a45)
