@@ -32,7 +32,7 @@ cd frontend
 npm install
 npm start
 ```
-3. Start Backend Server
+### 3. Start Backend Server
 ```bash
 cd backend
 node server.js
